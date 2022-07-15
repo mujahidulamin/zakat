@@ -78,23 +78,32 @@ h1 {
     margin-right: 100px;
     margin-top: 80px;
 }
-.depend-part{
+
+.depend {
+    margin-bottom: 80px;
+}
+
+.depend-part {
     text-align: center;
     margin-bottom: 30px;
 }
-.depend-part h1{
+
+.depend-part h1 {
     margin-bottom: 20px;
 }
-.Help-top{
+
+.Help-top {
     display: flex;
     width: 80%;
     padding-left: 10%;
     margin-bottom: 20px;
     position: relative;
-    
+
 }
-.help-content{
-    background-color: #FEF4F5;;
+
+.help-content {
+    background-color: #FEF4F5;
+    ;
     margin-left: 20px;
     padding-left: 105px;
     width: 500px;
@@ -104,13 +113,75 @@ h1 {
     border-radius: 5px;
     padding-bottom: 20px;
 }
-.help-pic-1{
+
+.help-pic-1 {
     position: absolute;
     left: 185px;
-    top: 30px;  
+    top: 30px;
 }
-.help-pic-2{
+
+.help-pic-2 {
     position: absolute;
     left: 720px;
-    top: 30px;  
+    top: 30px;
+}
+
+.picture {
+    margin-bottom: 100px;
+}
+
+.picture-part {
+    display: flex;
+    padding-left: 6%;
+}
+
+.picture-item {
+    margin-left: 20px;
+}
+
+.card {
+    margin-bottom: 100px;
+}
+
+.card h1 {
+    margin-bottom: 20px;
+}
+
+.Earn-part {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card-part {
+    display: flex;
+    width: 50%;
+    padding-left: 7%;
+}
+
+.card-content {
+    margin-left: 20px;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    padding-bottom: 30px;
+}
+
+.card-content h3 {
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.card-content p {
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-right: 20px;
+    line-height: 1.5;
+}
+
+.card-content a {
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #EF233C;
 }
