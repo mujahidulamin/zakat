@@ -62,3 +62,19 @@ h1 {
 .video-part p {
     margin-top: 20px;
 }
+
+.survive-part {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.survive-width {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.survive-content {
+    margin-right: 100px;
+    margin-top: 80px;
+}
